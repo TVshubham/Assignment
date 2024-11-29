@@ -1,6 +1,6 @@
 package Coding_Problem;
 
-public class Problem3 {
+public class Longest_Common_Prefix {
 
 
     public static String longestCommonPrefix(String[] strs) {

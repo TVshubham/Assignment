@@ -3,7 +3,7 @@ package Coding_Problem;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Problem1 {
+public class All_Distinct_Character {
 
 
     public static void main(String[] args) {

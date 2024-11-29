@@ -1,6 +1,6 @@
 package Coding_Problem;
 
-public class Problem2 {
+public class Sort {
 
 
      public static void main()
